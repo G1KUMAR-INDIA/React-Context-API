@@ -1,0 +1,7 @@
+.flex-container {
+    display: grid;
+    padding: 10px;
+}
+.Item{
+    margin: 10px;
+}
